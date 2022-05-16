@@ -2,14 +2,23 @@
 
 [![](https://raw.githubusercontent.com/hannah26hannah/hannah26hannah/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-👀  A Junior `Front-end developer`, who loves to get more insight from everyday life
+👀  A Junior `Front-end developer`, who loves to get more insight from everyday life. Currently working as a `lead front-end engineer` at [namu-ai](https://namu-ai.com/)
 
-> 👌 When I work, I value theses: Smooth and considerable UI/UX interaction, web accessibility and clean code for the team.
+👌 When I work, I value theses: Smooth and considerable UI/UX interaction, web accessibility and productivity for the team.
 
-- 👉  Learning and sharing knowledge is awesome. [This is my korean blog about learning new things](https://uiyoji-journal.tistory.com/)
-- 💻  I'm open to any interesting offers. [You can check my portfolio & resume](https://hannah26hannah.github.io/) here. 
-- 🛫  I can speak `Korean`, `English`, and a little bit of `Japanese`. `Chinese/Spanish` will be my next target.
-- 👀  Email me when something occured on your mind `jeongwon.y.h@gmail.com`
+👉  Learning and sharing knowledge is awesome. I'm currently building [hannah-as-dev blog season 2](https://hannah-as-dev.vercel.app/) to play with Next.js and other new technologies. This will be enhanced version of these two platforms that I built previously. 
+ 1) [Korean Blog season 1](https://uiyoji-journal.tistory.com/) (2020.03 ~ 2022.02)
+ 2) [Portfolio & Resume](https://hannah26hannah.github.io/) (~2022.02)
+
+🛫  I am a `Korean` native speaker, but also using `English` as a second language. 
+👀  Feel free to contact me. I'm open to interesting things. `jeongwon.y.h@gmail.com`
+
+🧠 I like keep trying new treads of `CSS`, `TypeScript` and `Next.js`.
+
+
+💪 Wanna try `Dart` and `Flutter` this year. 
+
+
 
 
 [![](https://raw.githubusercontent.com/hannah26hannah/hannah26hannah/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hannah26hannah/hannah26hannah/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
