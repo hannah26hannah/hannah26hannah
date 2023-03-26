@@ -3,20 +3,19 @@
 [![](https://raw.githubusercontent.com/hannah26hannah/hannah26hannah/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-👀  A Junior `Front-end developer`, who loves to get more insight from everyday life. Currently working as a `lead front-end engineer` at [namu-ai](https://namu-ai.com/). I am mainly writing TypeScript and Next.js. Hybrid app is my new challenge. 
+👀  A `Software Engineer with UX Focus`, who loves to get more insight from everyday life. 
 
-👌 When I work, I value theses: Smooth and considerable UI/UX interaction, web accessibility and productivity for the team.
+👌 Smooth and considerable UI/UX interaction, digital accessibility and productivity for the team are my goals.
 
-👉  Learning and sharing knowledge is awesome. I'm currently building [hannah-as-dev blog season 2](https://hannah-as-dev.vercel.app/) to play with Next.js and other new technologies. This will be enhanced version of these two platforms that I built previously. 
+👉  Learning and sharing knowledge is awesome. Built [hannah-as-dev blog season 2](https://hannah-as-dev.vercel.app/) to play with Next.js and other new technologies. This will be enhanced version of these two platforms that I worked on before. 
  1) [Korean Blog season 1](https://uiyoji-journal.tistory.com/) (2020.03 ~ 2022.02)
  2) [Portfolio & Resume](https://hannah26hannah.github.io/) (~2022.02)
 
-🛫  I am a `Korean` native speaker using `English` as a second language. 
+🛫  I am a `Korean` native speaker using `English` as a second language. Trying to get job opportunities in Canada 🇨🇦 next year (2023)
 
-👀  Feel free to contact me. I'm open to interesting things. `jeongwon.y.h@gmail.com`
+👀  Feel free to contact me. I'm always open to interesting things. `jeongwon.y.h@gmail.com`
 
-🧠 Currrent new interests : Hybrid App, Next.js and the deeper understanding of TypeScript.
-
+🧠 Currrent new interests : Flutter
 
 💪 Wanna try WebGL if possible.  
 
