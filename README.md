@@ -1,23 +1,20 @@
 # 👋 Hello, I'm a 
+👀 `Software Engineer with a focus on UX`, who loves gaining insights from everyday life. 
+
+👌 My goals are to create smooth and thoughtful UI/UX interactions, ensure digital accessibility, and enhance team productivity. 
+
+👉 I am passionate about learning and sharing knowledge. Visit [my tech blog](https://hannah-as-dev.vercel.app/) for more information.
+
+🛫  I am a native `Korean` speaker and I am fluent in `English` as a second language. Currently, I work as a remote freelancer.
+
+👀 If you have any collaboration offers, feel free to contact me `jeongwon.y.h@gmail.com`
+
+🧠 Currently, I am exploring new interests in Flutter and GraphQL.
+
+💪 I am eager to try out WebGL if the opportunity arises. 
 
 [![](https://raw.githubusercontent.com/hannah26hannah/hannah26hannah/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-👀  A `Software Engineer with UX Focus`, who loves to get more insight from everyday life. 
-
-👌 Smooth and considerable UI/UX interaction, digital accessibility and productivity for the team are my goals.
-
-👉  Learning and sharing knowledge is awesome. Built [hannah-as-dev blog season 2](https://hannah-as-dev.vercel.app/) to play with Next.js and other new technologies. This will be enhanced version of these two platforms that I worked on before. 
- 1) [Korean Blog season 1](https://uiyoji-journal.tistory.com/) (2020.03 ~ 2022.02)
- 2) [Portfolio & Resume](https://hannah26hannah.github.io/) (~2022.02)
-
-🛫  I am a `Korean` native speaker using `English` as a second language. Trying to get job opportunities in Canada 🇨🇦 next year (2023)
-
-👀  Feel free to contact me. I'm always open to interesting things. `jeongwon.y.h@gmail.com`
-
-🧠 Currrent new interests : Flutter
-
-💪 Wanna try WebGL if possible.  
 
 
 # 📚 Stacks
@@ -35,6 +32,9 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+
  
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white">
@@ -46,6 +46,9 @@
  
  
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
 
 </div>
 
